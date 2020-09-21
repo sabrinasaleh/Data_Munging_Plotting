@@ -6,7 +6,8 @@ Bruce Muckerson, Ed Yancik, Julie Gandre, Michael Donatucci, & Sabrina Saleh
 
 ## Tasks to Do:
 1. Data Collection
-   * Collecting raw data in csv and API formats. 
+    * Collecting raw data in csv and API formats. 
+   
 
 2. Data Munging       
     * Cleaning data for null and bad values. Working with rows & columns and merging files to create our final dataset with clean data. 
