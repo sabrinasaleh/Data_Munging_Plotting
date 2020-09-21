@@ -9,11 +9,11 @@ Bruce Muckerson, Ed Yancik, Julie Gandre, Michael Donatucci, & Sabrina Saleh
    * Collecting raw data in csv and API formats. 
 
 2. Data Munging       
-    * Cleaning data for null and bad values. Merging files to create final dataset with clean data. 
+    * Cleaning data for null and bad values. Working with rows & columns and merging files to create our final dataset with clean data. 
     
        
 3. Data Analysis
-    * Data plotting for analysis. Addressing our research question. Analyzing hypotheses and results with statistics and plots.
+    * Data plotting for analysis. Addressing our research question. Analyzing our hypotheses and results with statistics and plots.
     
     
 4. Data Visualization
@@ -21,4 +21,4 @@ Bruce Muckerson, Ed Yancik, Julie Gandre, Michael Donatucci, & Sabrina Saleh
     
     
 5. Presentation
-    * Writing the report with key observations and insights.
+    * Writing the report with our key observations and insights.
