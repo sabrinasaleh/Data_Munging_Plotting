@@ -25,13 +25,13 @@ Group Members: Bruce Muckerson, Ed Yancik, Julie Gandre, Michael Donatucci, and 
 * Data: World Bank; 2018 or 2019. https://data.worldbank.org
 
 
-## Variable, Measure, & Data: Hypothesis 1
+Variable, Measure, & Data: Hypothesis 1
 * Independent Variable: Countries' R&D level
 * Measure: Countries' R&D Expenditure (% of GDP)
 * Data: World Bank; 2018 or 2019. https://data.worldbank.org
 
 
-## Variable, Measure, & Data: Hypothesis 3 
+Variable, Measure, & Data: Hypothesis 3 
 * Independent Variable: Countries' business infrastructure
 * Measure: Doing Business Indicator
 * Data: World Bank; 2018 or 2019. https://data.worldbank.org
