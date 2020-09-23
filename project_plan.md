@@ -22,7 +22,7 @@ Bruce Muckerson, Ed Yancik, Julie Gandre, Michael Donatucci, and Sabrina Saleh
 
 ## Variable, Measure, & Data: Hypothesis 1 
 * Independent Variable: Countries' economic level
-* Measure: Countries' GDP
+* Measure: Countries' GDP ($US)
 * Data: World Bank; 2018 or 2019. https://data.worldbank.org
 
 
