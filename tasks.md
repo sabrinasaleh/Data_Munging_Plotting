@@ -2,7 +2,7 @@ Data Analysis & Visualization Bootcamp | UT-Austin McCombs | Fall 2020
 # **Project 1: Data Munging & Plotting**
 
 ## Group Members: 
-Bruce Muckerson | Ed Yancik | Julie Gandre | Michael Donatucci | Sabrina Saleh
+Bruce Muckerson, Ed Yancik, Julie Gandre, Michael Donatucci, and Sabrina Saleh
 
 ## Tasks to Do:
 1. Data Collection
