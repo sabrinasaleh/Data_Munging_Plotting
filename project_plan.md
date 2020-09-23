@@ -1,7 +1,6 @@
 Data Analysis & Visualization Bootcamp | UT-Austin McCombs | Fall 2020
 # **Project Name: FDI in USA**
-Group Members: 
-Bruce Muckerson, Ed Yancik, Julie Gandre, Michael Donatucci, and Sabrina Saleh
+Group Members: Bruce Muckerson, Ed Yancik, Julie Gandre, Michael Donatucci, and Sabrina Saleh
 
 
 ## Research Question: 
@@ -26,7 +25,7 @@ Bruce Muckerson, Ed Yancik, Julie Gandre, Michael Donatucci, and Sabrina Saleh
 * Data: World Bank; 2018 or 2019. https://data.worldbank.org
 
 
-## Variable, Measure, & Data: Hypothesis 2 
+## Variable, Measure, & Data: Hypothesis 1
 * Independent Variable: Countries' R&D level
 * Measure: Countries' R&D Expenditure (% of GDP)
 * Data: World Bank; 2018 or 2019. https://data.worldbank.org
