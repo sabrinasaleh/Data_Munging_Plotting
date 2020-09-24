@@ -37,5 +37,13 @@ Group Members: Bruce Muckerson, Ed Yancik, Julie Gandre, Michael Donatucci, and 
 * Data: World Bank; 2018 or 2019. https://data.worldbank.org
 
 
+## Packages for Data Cleaning, Analysis, & Visualization 
+* import pandas for data cleaning, merging, and analysis
+* import plotly.express for data plotting and visualization
+* import requests and json for API data
+* import scipy.stats for statistical analysis
+* import LinearRegression from sklearn.linear_model 
+
+
     
 
