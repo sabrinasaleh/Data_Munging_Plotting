@@ -1,0 +1,181 @@
+country_code,country_name,capital_city,lat,lng,GDP_2018 (million),tech_export_2018 (million),doing_business_2018,region,fdi_USA_2018 (million)
+AFG,Afghanistan,Kabul,34.5289,69.1725,19484.384936631202,,37.1,Asia,1.0
+ALB,Albania,Tiranë (Tirana),41.3275,19.8189,15147.020535386899,0.5917,66.8,Europe ,0.0
+AND,Andorra,Andorra la Vella,42.5078,1.5211,3218.3160132262606,33.9135,,Europe ,0.0
+ATG,Antigua and Barbuda,St. John's,17.1172,-61.8457,1610.5740740740698,0.0114,59.8,Latin America and Other Western Hemisphere,3.0
+ARG,Argentina,Buenos Aires,-34.6051,-58.4004,519871.519807795,647.1724,57.3,Latin America and Other Western Hemisphere,822.0
+ARM,Armenia,Yerevan,40.181999999999995,44.5146,12457.9419070333,36.2933,71.5,Europe ,3.0
+ABW,Aruba,Oranjestad,12.524000000000001,-70.027,,2.563,,Latin America and Other Western Hemisphere,6.0
+AUS,Australia,Canberra,-35.2835,149.1281,1433904.3485001202,5274.0798,80.8,Australia,63070.0
+AUT,Austria,Wien (Vienna),48.2064,16.3707,455508.25502821896,16687.4995,78.7,Europe ,12392.0
+AZE,Azerbaijan,Baku,40.3777,49.891999999999996,47112.941176470595,21.178,66.8,Europe ,-2.0
+BHS,"Bahamas, The",Nassau,25.0582,-77.3431,12424.5,,58.6,Latin America and Other Western Hemisphere,646.0
+BGD,Bangladesh,Dhaka,23.7104,90.4074,274039.09245530603,,41.6,Asia,12.0
+BRB,Barbados,Bridgetown,13.1,-59.6167,5086.5,,57.7,Latin America and Other Western Hemisphere,7476.0
+BLR,Belarus,Minsk,53.9,27.5667,60031.262269336505,716.9919,73.6,Europe ,4.0
+BEL,Belgium,Bruxelles-Brussel,50.8467,4.3499,542685.915417411,36817.018,72.2,Europe ,64661.0
+BLZ,Belize,Belmopan,17.25,-88.7667,1871.2,0.0063,55.3,Latin America and Other Western Hemisphere,12.0
+BEN,Benin,Porto-Novo,6.4965,2.6036,14250.985958672703,1.4087,51.6,Africa,0.0
+BMU,Bermuda,Hamilton,32.2915,-64.778,,2.9398,,Latin America and Other Western Hemisphere,28018.0
+BTN,Bhutan,Thimphu,27.4661,89.6419,2446.67410201858,,65.8,Asia,0.0
+BIH,Bosnia and Herzegovina,Sarajevo,43.8486,18.3564,20183.4984912492,261.3793,65.2,Europe ,0.0
+BWA,Botswana,Gaborone,-24.6545,25.9086,18663.2647058824,39.4492,65.7,Africa,0.0
+BRA,Brazil,Brasília,-15.7797,-47.9297,1885482.53423833,11096.2805,55.6,Latin America and Other Western Hemisphere,2514.0
+BFA,Burkina Faso,Ouagadougou,12.3642,-1.5383,16199.4346245768,6.5313,51.2,Africa,-1.0
+BDI,Burundi,Bujumbura,-3.3822,29.3644,3036.9318181818203,2.0196,45.9,Africa,0.0
+CPV,Cabo Verde,Praia,14.9215,-23.5087,1966.9833163259304,0.0,54.0,Africa,-2.0
+KHM,Cambodia,Phnum Pénh (Phnom Penh),11.5625,104.916,24571.753583492202,164.81599999999997,53.4,Asia,4.0
+CMR,Cameroon,Yaoundé,3.8667,11.5167,38694.09565097631,,45.1,Africa,0.0
+CAN,Canada,Ottawa-Gatineau,45.4166,-75.69800000000001,1716262.62108222,31036.3169,79.3,Canada,442802.0
+CAF,Central African Republic,Bangui,4.3612,18.555,2220.97897817342,,32.4,Africa,0.0
+TCD,Chad,N'Djaména,12.1067,15.0444,11239.1670484916,,35.5,Africa,1.0
+CHL,Chile,Santiago,-33.4569,-70.6483,298258.01927504904,680.2768,72.0,Latin America and Other Western Hemisphere,2573.0
+CHN,China,Beijing,39.9075,116.3972,13894817.1100363,732000.0,65.2,Asia,33543.0
+COL,Colombia,Bogotá,4.6097,-74.0818,333568.926392586,606.2991,69.0,Latin America and Other Western Hemisphere,140.0
+COM,Comoros,Moroni,-11.7022,43.2551,1178.53075772328,0.0287,46.9,Africa,0.0
+CRI,Costa Rica,San José,9.9278,-84.0807,60553.901420085,1148.8317,69.3,Latin America and Other Western Hemisphere,-211.0
+CIV,Cote d'Ivoire,Yamoussoukro,6.8206,-5.2767,57724.73136476691,78.7897,53.0,Africa,0.0
+HRV,Croatia,Zagreb,45.8144,15.978,60991.399904443395,1011.9397,72.6,Europe ,19.0
+CUB,Cuba,La Habana (Havana),23.1195,-82.3785,100023.0,,,Latin America and Other Western Hemisphere,0.0
+CYP,Cyprus,Lefkosia (Nicosia),35.1595,33.3669,24961.995748701,95.7124,72.3,Europe ,323.0
+DNK,Denmark,København (Copenhagen),55.6759,12.5655,355675.329085952,9587.8754,84.6,Europe ,20654.0
+DJI,Djibouti,Djibouti,11.5877,43.1447,3012.8204096331297,,50.9,Africa,0.0
+DMA,Dominica,Roseau,15.3017,-61.3881,550.8925925925929,,61.7,Latin America and Other Western Hemisphere,0.0
+DOM,Dominican Republic,Santo Domingo,18.4896,-69.9018,85555.37804281959,,59.1,Latin America and Other Western Hemisphere,107.0
+ECU,Ecuador,Quito,-0.2299,-78.525,107562.008,68.40100000000001,57.5,Latin America and Other Western Hemisphere,30.0
+EGY,"Egypt, Arab Rep.",Al-Qahirah (Cairo),30.0392,31.2394,250894.760351232,125.2166,55.8,Africa,-43.0
+SLV,El Salvador,San Salvador,13.6894,-89.1872,26117.4,277.8486,64.7,Latin America and Other Western Hemisphere,16.0
+GNQ,Equatorial Guinea,Malabo,3.75,8.7833,13278.488567305802,,40.3,Africa,-3.0
+ERI,Eritrea,Asmara,15.3333,38.9333,,,21.4,Africa,0.0
+SWZ,Eswatini,,,,4710.61847004358,11.4321,58.6,Africa,0.0
+FIN,Finland,Helsinki,60.1692,24.9402,275893.68135589204,4515.4147,80.0,Europe ,14464.0
+FRA,France,Paris,48.8534,2.3488,2787863.9588854904,118000.0,76.0,Europe ,268169.0
+GAB,Gabon,Libreville,0.3925,9.4537,16862.2824138778,,44.7,Africa,0.0
+GMB,"Gambia, The",Banjul,13.4531,-16.6794,1624.60088232255,0.0062,47.8,Africa,0.0
+GEO,Georgia,Tbilisi,41.6941,44.8337,17599.700090762002,26.9503,83.0,Europe ,0.0
+DEU,Germany,Berlin,52.5244,13.4105,3949548.83395294,210000.0,79.3,Europe ,328124.0
+GHA,Ghana,Accra,5.556,-0.1969,65556.4640481539,50.0067,58.4,Africa,-4.0
+GIB,Gibraltar,Gibraltar,36.1447,-5.3526,,,,Europe ,9367.0
+GRC,Greece,Athínai (Athens),37.9534,23.749000000000002,218138.36744499,1754.8020000000001,67.1,Europe ,639.0
+GRD,Grenada,St.George's,12.0564,-61.7485,1168.6962962963,,53.3,Latin America and Other Western Hemisphere,8.0
+GTM,Guatemala,Ciudad de Guatemala (Guatemala City),14.6127,-90.5307,73118.1478082775,,61.5,Latin America and Other Western Hemisphere,-9.0
+GNB,Guinea-Bissau,Bissau,11.8636,-15.5977,1458.15602613413,,42.9,Africa,0.0
+HTI,Haiti,Port-au-Prince,18.5392,-72.335,9658.721169632841,,37.7,Latin America and Other Western Hemisphere,-1.0
+HND,Honduras,Tegucigalpa,14.0818,-87.2068,24024.189735887598,,55.9,Latin America and Other Western Hemisphere,-80.0
+HKG,"Hong Kong SAR, China",Hong Kong,22.2796,114.1887,361693.05351789296,330000.0,85.0,Asia,13159.0
+HUN,Hungary,Budapest,47.498000000000005,19.0399,157882.91277825402,18065.9217,72.7,Europe ,31730.0
+IND,India,Delhi,28.6667,77.2167,2713165.05751335,20273.0902,60.9,Asia,5127.0
+IDN,Indonesia,Jakarta,-6.2118,106.8416,1042240.30941258,6389.6047,66.9,Asia,344.0
+IRQ,Iraq,Baghdad,33.3406,44.4009,224228.01047791907,,44.6,Asia,-2.0
+IRL,Ireland,Dublin,53.3331,-6.2489,382674.36076634104,36493.7948,80.1,Europe ,265004.0
+ISR,Israel,Jerusalem,31.769000000000002,35.2163,370587.97715358296,12971.903,74.3,Asia,13982.0
+ITA,Italy,Roma (Rome),41.8947,12.4811,2085764.30086227,32581.0252,73.2,Europe ,30749.0
+JAM,Jamaica,Kingston,17.997,-76.7936,15713.908816146299,,67.7,Latin America and Other Western Hemisphere,46.0
+JPN,Japan,Tokyo,35.6895,139.6917,4954806.619995192,111000.0,78.0,Asia,493763.0
+JOR,Jordan,Amman,31.9552,35.945,42231.2957746479,142.1883,59.9,Asia,-218.0
+KAZ,Kazakhstan,Astana,51.1801,71.446,179339.994859384,1762.9777,76.9,Europe ,0.0
+KEN,Kenya,Nairobi,-1.2833,36.8167,87778.5829641388,54.8993,65.4,Africa,-5.0
+KIR,Kiribati,Tarawa,1.3272,172.9813,196.737895995218,,46.2,Asia,0.0
+PRK,"Korea, Dem. People’s Rep.",P'yongyang,39.0339,125.7543,,,,Asia,0.0
+KOR,"Korea, Rep.",Seoul,37.5683,126.9778,1720578.82780554,193000.0,84.0,Asia,56612.0
+XKX,Kosovo,,,,7942.961738308931,,70.5,Europe ,0.0
+KWT,Kuwait,Al Kuwayt (Kuwait City),29.3697,47.9783,140645.36423841098,231.3634,61.8,Asia,1276.0
+KGZ,Kyrgyz Republic,Bishkek,42.87,74.59,8271.10863839931,40.0237,62.4,Europe ,0.0
+LAO,Lao PDR,Vientiane,17.9667,102.6,17953.786416143103,467.9812,50.0,Asia,0.0
+LBN,Lebanon,Bayrut (Beirut),33.9,35.4833,54961.27574155889,39.5293,54.4,Asia,19.0
+LSO,Lesotho,Maseru,-29.3167,27.4833,2575.89226132457,,58.6,Africa,0.0
+LBR,Liberia,Monrovia,6.3005,-10.7969,3264.0,,43.6,Africa,466.0
+LBY,Libya,Tarabulus (Tripoli),32.8752,13.1875,52607.8887179487,,32.5,Africa,1.0
+LTU,Lithuania,Vilnius,54.6892,25.2798,53455.170033519404,2516.3214,80.6,Europe ,-4.0
+LUX,Luxembourg,Luxembourg,49.6117,6.13,70919.95801552472,858.2699,69.6,Europe ,312976.0
+MDG,Madagascar,Antananarivo,-18.9137,47.5361,13853.433947624098,2.9993,46.4,Africa,0.0
+MWI,Malawi,Lilongwe,-13.9669,33.7873,6917.301908627571,,59.5,Africa,0.0
+MYS,Malaysia,Kuala Lumpur,3.1412,101.6865,358581.94344625896,90395.903,78.8,Asia,1218.0
+MDV,Maldives,Male,4.1748,73.5089,5327.45714972581,,53.2,Asia,0.0
+MLI,Mali,Bamako,12.65,-8.0,17172.02268431,,52.9,Africa,-1.0
+MLT,Malta,Valletta,35.8997,14.5147,14603.581712328798,762.2507,65.2,Europe ,1557.0
+MRT,Mauritania,Nouakchott,18.0858,-15.9785,7049.16977086399,,48.4,Africa,0.0
+MUS,Mauritius,Port Louis,-20.1619,57.4989,14181.8037154038,31.2926,78.9,Africa,487.0
+MEX,Mexico,Ciudad de México (Mexico City),19.4273,-99.1419,1220699.47984598,74886.1238,72.5,Latin America and Other Western Hemisphere,21050.0
+FSM,"Micronesia, Fed. Sts.",Palikir,6.9174,158.1588,401.9323,,48.1,Asia,1.0
+MDA,Moldova,,,,11457.4102641932,18.9441,72.7,Europe ,0.0
+MCO,Monaco,Monaco,43.7333,7.4167,7188.23807274445,,,Europe ,-26.0
+MNG,Mongolia,Ulaanbaatar,47.9077,106.8832,13108.7694957425,6.7633,67.4,Asia,-1.0
+MNE,Montenegro,Podgorica,42.4411,19.2636,5506.766650921109,4.2465,73.8,Europe ,0.0
+MAR,Morocco,Rabat,34.0133,-6.8326,117921.394402361,838.9599,69.2,Africa,-22.0
+MOZ,Mozambique,Maputo,-25.9653,32.5892,14717.2232069,27.2201,52.8,Africa,-1.0
+MMR,Myanmar,Nay Pyi Taw,19.745,96.1297,76168.0439815932,312.0546,43.0,Asia,3.0
+NAM,Namibia,Windhoek,-22.5594,17.0832,13454.2111244607,2.8883,61.1,Africa,2.0
+NRU,Nauru,Nauru,-0.5308,166.9112,124.02139369041201,,,Asia,0.0
+NPL,Nepal,Kathmandu,27.7017,85.3206,29173.513475559703,,60.0,Asia,-1.0
+NLD,Netherlands,Amsterdam,52.373999999999995,4.8897,914104.847814117,85690.5732,76.1,Europe ,462303.0
+NZL,New Zealand,Wellington,-41.2866,174.7756,207920.61396174895,606.9409,87.0,New Zealand,2107.0
+NIC,Nicaragua,Managua,12.1328,-86.2504,13063.8730778495,14.953,54.2,Latin America and Other Western Hemisphere,-8.0
+NER,Niger,Niamey,13.5137,2.1098,12826.750567185902,,51.2,Africa,0.0
+NGA,Nigeria,Abuja,9.0574,7.4898,398160.40320651897,41.632,52.0,Africa,81.0
+MKD,North Macedonia,,,,12628.8548009772,234.1701,80.3,Europe ,-1.0
+NOR,Norway,Oslo,59.9127,10.7461,434166.615431909,4294.5429,82.7,Europe ,26007.0
+OMN,Oman,Masqat (Muscat),23.6139,58.5922,79275.422626788,73.3026,68.6,Asia,15.0
+PAK,Pakistan,Islamabad,33.7035,73.0594,314567.54155833897,380.3684,53.0,Asia,167.0
+PLW,Palau,Koror,7.3426,134.4789,283.9949,0.4016,53.7,Asia,0.0
+PAN,Panama,Ciudad de Panamá (Panama City),8.9958,-79.5196,65128.2,,66.5,Latin America and Other Western Hemisphere,2789.0
+PNG,Papua New Guinea,Port Moresby,-9.4431,147.1797,23412.4950634985,,59.4,Asia,1.0
+PRY,Paraguay,Asunción,-25.3007,-57.6359,40384.691790568504,102.3366,58.0,Latin America and Other Western Hemisphere,-9.0
+PER,Peru,Lima,-12.0432,-77.0282,222044.970486217,210.4786,67.8,Latin America and Other Western Hemisphere,195.0
+PHL,Philippines,Manila,14.6042,120.9822,346841.896889553,33903.5534,59.3,Asia,361.0
+PRT,Portugal,Lisboa (Lisbon),38.7169,-9.1399,241274.628877362,2978.2195,76.5,Europe ,1056.0
+ROU,Romania,Bucuresti (Bucharest),44.4328,26.1043,241626.953521413,6637.1401,73.0,Europe ,3.0
+RUS,Russian Federation,Moskva (Moscow),55.755,37.6218,1669583.08932296,10183.0078,76.5,Europe ,4455.0
+RWA,Rwanda,Kigali,-1.9474,30.0579,9627.72062970522,,71.1,Africa,0.0
+SMR,San Marino,San Marino,43.9333,12.45,1637.93103448276,,61.9,Europe ,0.0
+STP,Sao Tome and Principe,São Tomé,0.3365,6.7273,422.295934152254,1.3329,44.7,Africa,0.0
+SAU,Saudi Arabia,Ar-Riyadh (Riyadh),24.6905,46.7096,786521.831573333,285.4141,62.1,Asia,6912.0
+SEN,Senegal,Dakar,14.6937,-17.4441,23236.007428258203,28.1557,54.0,Africa,1.0
+SRB,Serbia,Beograd (Belgrade),44.8176,20.4633,50597.28914670409,458.0794,73.8,Europe ,3.0
+SYC,Seychelles,Victoria,-4.6167,55.45,1586.0089966261596,5.6111,61.5,Africa,0.0
+SLE,Sierra Leone,Freetown,8.484,-13.2299,4085.1147942232396,,47.1,Africa,0.0
+SGP,Singapore,Singapore,1.2897,103.8501,373217.08185053396,155000.0,85.6,Asia,18267.0
+SXM,Sint Maarten (Dutch part),Philipsburg,18.026,-63.0458,,,,Latin America and Other Western Hemisphere,0.0
+SVK,Slovak Republic,Bratislava,48.1482,17.1067,105820.499976721,8971.2428,75.2,Europe ,14.0
+SVN,Slovenia,Ljubljana,46.0511,14.5051,54034.3585442622,2089.3864,76.4,Europe ,6.0
+SLB,Solomon Islands,Honiara,-9.4333,159.95,1395.6084753222303,0.1713,54.9,Asia,0.0
+SOM,Somalia,Muqdisho (Mogadishu),2.0416,45.3435,,,20.0,Africa,0.0
+ZAF,South Africa,Cape Town,-33.9258,18.4232,368288.9397683221,2239.9458,65.3,Africa,4013.0
+SSD,South Sudan,Juba,4.8517,31.5825,,,31.6,Africa,0.0
+ESP,Spain,Madrid,40.4165,-3.7026,1419735.2450046998,16982.2448,77.6,Europe ,83379.0
+LKA,Sri Lanka,Colombo,6.9319,79.8478,88425.8895921519,,60.0,Asia,66.0
+LCA,St. Lucia,Castries,14.005999999999998,-60.99100000000001,2065.8750740740697,,63.6,Latin America and Other Western Hemisphere,7.0
+MAF,St. Martin (French part),,,,,,,Latin America and Other Western Hemisphere,0.0
+VCT,St. Vincent and the Grenadines,Kingstown,13.1587,-61.2248,811.3,0.0003,57.0,Latin America and Other Western Hemisphere,-1.0
+SUR,Suriname,Paramaribo,5.8664,-55.1668,3458.0904522613105,1.169,47.4,Latin America and Other Western Hemisphere,-7.0
+SWE,Sweden,Stockholm,59.3326,18.0649,555455.371487089,17441.8322,82.2,Europe ,49546.0
+CHE,Switzerland,Bern,46.9481,7.4474,705140.6200466999,30136.2426,76.6,Europe ,295783.0
+SYR,Syrian Arab Republic,Dimashq (Damascus),33.5086,36.3084,,,41.4,Asia,0.0
+TJK,Tajikistan,Dushanbe,38.5358,68.7791,7522.947810123259,,54.3,Europe ,0.0
+TZA,Tanzania,Dodoma,-6.1722,35.7395,58001.200572396505,186.2584,54.0,Africa,1.0
+THA,Thailand,Krung Thep (Bangkok),13.722000000000001,100.5252,506514.10390526796,44795.082,78.5,Asia,2136.0
+TLS,Timor-Leste,Dili,-8.5601,125.5668,1568.61156200556,,38.0,Asia,0.0
+TGO,Togo,Lomé,6.1375,1.2123,5356.34485049415,,48.8,Africa,0.0
+TON,Tonga,Nuku'alofa,-21.1394,-175.2032,450.353313884584,,61.6,Asia,0.0
+TTO,Trinidad and Tobago,Port of Spain,10.6662,-61.5166,23808.1467477994,,61.2,Latin America and Other Western Hemisphere,165.0
+TUN,Tunisia,Tunis,36.819,10.1658,39770.297328950895,,65.3,Africa,1.0
+TUR,Turkey,Ankara,39.9199,32.8543,771350.3313727111,3116.828,70.9,Europe ,2175.0
+TKM,Turkmenistan,Ashgabat,37.95,58.3833,40761.1428571429,,,Europe ,0.0
+TUV,Tuvalu,Funafuti,-8.5189,179.1991,42.5881649731022,,,Asia,0.0
+UGA,Uganda,Kampala,0.3163,32.5822,32772.8242089499,19.9126,57.9,Africa,0.0
+UKR,Ukraine,Kyiv (Kiev),50.4454,30.5186,130901.85842172,1247.5559,68.1,Europe ,-3.0
+ARE,United Arab Emirates,Abu Zaby (Abu Dhabi),24.4648,54.3618,422215.043584969,2395.5695,79.3,Asia,5530.0
+GBR,United Kingdom,London,51.5085,-0.1257,2860667.72755197,76926.541,83.2,Europe ,496622.0
+URY,Uruguay,Montevideo,-34.8335,-56.1674,59596.8850230917,120.1979,61.0,Latin America and Other Western Hemisphere,538.0
+UZB,Uzbekistan,Tashkent,41.2647,69.2163,50392.6077582324,12.429,66.6,Europe ,0.0
+VUT,Vanuatu,Port Vila,-17.7338,168.3219,906.0501069726951,,60.9,Asia,5.0
+VEN,"Venezuela, RB",Caracas,10.488,-66.8792,,,30.0,Latin America and Other Western Hemisphere,1673.0
+VNM,Vietnam,Hà Noi,21.0245,105.8412,245213.68636915702,82613.421,67.0,Asia,59.0
+YEM,"Yemen, Rep.",Sana'a',15.3531,44.2078,27591.261663286,,31.3,Asia,0.0
+ZMB,Zambia,Lusaka,-15.4134,28.2771,27005.2388961666,25.8055,64.2,Africa,-6.0
+ZWE,Zimbabwe,Harare,-17.8294,31.0539,24311.5605,9.7194,48.6,Africa,-3.0
+,Taiwan,Taibei,25.046999999999997,121.5457,,,80.7,Asia,10512.0
+,Western Sahara,El Aaiún,27.1532,-13.2014,,,,Africa,0.0
+,Curacao ,,,,,,,Latin America and Other Western Hemisphere,1335.0
+,Sudan ,,,,,,,Africa,0.0
+,Vatican City,,,,,,,Europe ,0.0
