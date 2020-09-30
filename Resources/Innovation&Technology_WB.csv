@@ -1,4 +1,4 @@
-country_name,country_code,indicator_name,indicator_code,tech_export_2017 (million),tech_export_2018 (million),tech_export_2019 (million)
+﻿country_name,Country,indicator_name,indicator_code,tech_export_2017 (million),tech_export_2018 (million),tech_export_2019 (million)
 Afghanistan,AFG,High-technology exports,TX.VAL.TECH.CD,,,
 Albania,ALB,High-technology exports,TX.VAL.TECH.CD,1.119,0.5917,
 Algeria,DZA,High-technology exports,TX.VAL.TECH.CD,9.0274,,
@@ -102,7 +102,7 @@ Jordan,JOR,High-technology exports,TX.VAL.TECH.CD,83.3232,142.1883,
 Kazakhstan,KAZ,High-technology exports,TX.VAL.TECH.CD,1787.7205,1762.9777,2251.4914
 Kenya,KEN,High-technology exports,TX.VAL.TECH.CD,48.6175,54.8993,
 Kiribati,KIR,High-technology exports,TX.VAL.TECH.CD,,,
-"Korea, Dem. People�s Rep.",PRK,High-technology exports,TX.VAL.TECH.CD,,,
+"Korea, Dem. People’s Rep.",PRK,High-technology exports,TX.VAL.TECH.CD,,,
 "Korea, Rep.",KOR,High-technology exports,TX.VAL.TECH.CD,167000,193000,154000
 Kosovo,XKX,High-technology exports,TX.VAL.TECH.CD,,,
 Kuwait,KWT,High-technology exports,TX.VAL.TECH.CD,5.4459,231.3634,

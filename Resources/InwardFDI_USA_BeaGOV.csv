@@ -1,4 +1,4 @@
-country_name,region,fdi_USA_2017 (million),fdi_USA_2018 (million),fdi_USA_2019 (million)
+﻿country_name,region,fdi_USA_2017 (million),fdi_USA_2018 (million),fdi_USA_2019 (million)
 Afghanistan,Asia,,1,0
 Albania,Europe ,0,0,0
 Algeria,Africa,8,,0
@@ -134,7 +134,7 @@ New Zealand,New Zealand,1029,2107,2550
 Nicaragua,Latin America and Other Western Hemisphere,7,-8,-17
 Niger,Africa,0,0,0
 Nigeria,Africa,51,81,105
-"Korea, Dem. People�s Rep.",Asia,0,0,0
+"Korea, Dem. People’s Rep.",Asia,0,0,0
 North Macedonia,Europe ,0,-1,-1
 Norway,Europe ,22800,26007,24221
 Oman,Asia,-9,15,-3
