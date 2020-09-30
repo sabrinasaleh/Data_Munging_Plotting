@@ -9,7 +9,7 @@ Group Members: Bruce Muckerson, Ed Yancik, Julie Gandre, Michael Donatucci, and 
 
 ## Hypotheses:       
 1. Countries' economic level impacts their Foreign Direct Investment (FDI) in the USA. 
-2. Countries' research and development (R&D) level impacts their Foreign Direct Investment (FDI) in the USA.
+2. Countries' innovation & technology impacts their Foreign Direct Investment (FDI) in the USA.
 3. Countries' business infrastructure impacts their Foreign Direct Investment (FDI) in the USA.
     
        
@@ -26,8 +26,8 @@ Group Members: Bruce Muckerson, Ed Yancik, Julie Gandre, Michael Donatucci, and 
 
 
 ## Variable, Measure, & Data: Hypothesis 2
-* Independent Variable: Countries' R&D level
-* Measure: R&D expenditure (% of GDP) across countries
+* Independent Variable: Countries' innovation & technology
+* Measure: High technology exports (in million $USD) across countries
 * Data: World Bank; 2018 or 2019. https://data.worldbank.org
 
 
