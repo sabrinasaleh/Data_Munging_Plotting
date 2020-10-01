@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-testing
-=======
-Ed Testing
->>>>>>> master
