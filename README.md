@@ -16,25 +16,25 @@ Group Members: Bruce Muckerson, Ed Yancik, Julie Gandre, Michael Donatucci, and 
 ## Variable, Measure, & Data: All 3 Hypotheses 
 * Dependent Variable: FDI in USA
 * Measure: Individual countries' FDI in USA (in million $USD)
-* Data: Bureau of Economic Analysis; 2018 or 2019. https://www.bea.gov
+* Data: Bureau of Economic Analysis; 2018. https://www.bea.gov
 
 
 ## Variable, Measure, & Data: Hypothesis 1 
 * Independent Variable: Countries' economic level
 * Measure: GDP (in million $USD) across countries
-* Data: World Bank; 2018 or 2019. https://data.worldbank.org
+* Data: World Bank; 2018. https://data.worldbank.org
 
 
 ## Variable, Measure, & Data: Hypothesis 2
 * Independent Variable: Countries' innovation & technology
 * Measure: High technology exports (in million $USD) across countries
-* Data: World Bank; 2018 or 2019. https://data.worldbank.org
+* Data: World Bank; 2018. https://data.worldbank.org
 
 
 ## Variable, Measure, & Data: Hypothesis 3 
 * Independent Variable: Countries' business infrastructure
 * Measure: Doing Business indicator across countries
-* Data: World Bank; 2018 or 2019. https://data.worldbank.org
+* Data: World Bank; 2018. https://data.worldbank.org
 
 
 ## Packages for Data Cleaning, Analysis, & Visualization 

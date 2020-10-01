@@ -4,28 +4,28 @@ Albania,Europe ,0,0,0
 Algeria,Africa,8,,0
 Andorra,Europe ,0,0,0
 Angola,Africa,222,,
-Anguilla,Latin America and Other Western Hemisphere,,,
-Antigua and Barbuda,Latin America and Other Western Hemisphere,3,3,3
-Argentina,Latin America and Other Western Hemisphere,1028,822,561
+Anguilla,Latin America,,,
+Antigua and Barbuda,Latin America,3,3,3
+Argentina,Latin America,1028,822,561
 Armenia,Europe ,3,3,3
-Aruba,Latin America and Other Western Hemisphere,8,6,
+Aruba,Latin America,8,6,
 Australia,Australia,62048,63070,80974
 Austria,Europe ,13160,12392,13964
 Azerbaijan,Europe ,-7,-2,-2
-"Bahamas, The",Latin America and Other Western Hemisphere,513,646,1089
+"Bahamas, The",Latin America,513,646,1089
 Bahrain,Asia,57,,-13
 Bangladesh,Asia,12,12,12
-Barbados,Latin America and Other Western Hemisphere,9053,7476,9077
+Barbados,Latin America,9053,7476,9077
 Belarus,Europe ,4,4,4
 Belgium,Europe ,76009,64661,65918
-Belize,Latin America and Other Western Hemisphere,12,12,12
+Belize,Latin America,12,12,12
 Benin,Africa,0,0,0
-Bermuda,Latin America and Other Western Hemisphere,-3280,28018,56279
+Bermuda,Latin America,-3280,28018,56279
 Bhutan,Asia,0,0,0
-Bolivia,Latin America and Other Western Hemisphere,1,,-2
+Bolivia,Latin America,1,,-2
 Bosnia and Herzegovina,Europe ,0,0,0
 Botswana,Africa,0,0,0
-Brazil,Latin America and Other Western Hemisphere,977,2514,4617
+Brazil,Latin America,977,2514,4617
 Brunei Darussalam,Asia,-3,,
 Bulgaria,Europe ,30,,
 Burkina Faso,Africa,-1,-1,0
@@ -37,26 +37,26 @@ Cameroon,Africa,0,0,0
 Canada,Canada,395495,442802,495720
 Central African Republic,Africa,0,0,0
 Chad,Africa,2,1,0
-Chile,Latin America and Other Western Hemisphere,1861,2573,2851
+Chile,Latin America,1861,2573,2851
 China,Asia,31306,33543,37685
-Colombia,Latin America and Other Western Hemisphere,-26,140,174
+Colombia,Latin America,-26,140,174
 Comoros,Africa,0,0,0
 "Congo, Rep.",Africa,-4,,-4
 "Congo, Dem. Rep.",Africa,0,,0
-Costa Rica,Latin America and Other Western Hemisphere,-137,-211,-199
+Costa Rica,Latin America,-137,-211,-199
 Cote d'Ivoire,Africa,0,0,0
 Croatia,Europe ,20,19,
-Cuba,Latin America and Other Western Hemisphere,0,0,0
-Curacao ,Latin America and Other Western Hemisphere,1312,1335,1182
+Cuba,Latin America,0,0,0
+Curacao ,Latin America,1312,1335,1182
 Cyprus,Europe ,,323,120
 Czech Republic,Europe ,,,
 Denmark,Europe ,18617,20654,23870
 Djibouti,Africa,0,0,0
-Dominica,Latin America and Other Western Hemisphere,0,0,0
-Dominican Republic,Latin America and Other Western Hemisphere,223,107,151
-Ecuador,Latin America and Other Western Hemisphere,27,30,48
+Dominica,Latin America,0,0,0
+Dominican Republic,Latin America,223,107,151
+Ecuador,Latin America,27,30,48
 "Egypt, Arab Rep.",Africa,-21,-43,1
-El Salvador,Latin America and Other Western Hemisphere,-7,16,26
+El Salvador,Latin America,-7,16,26
 Equatorial Guinea,Africa,,-3,-2
 Eritrea,Africa,0,0,0
 Estonia,Europe ,,,-4
@@ -73,13 +73,13 @@ Ghana,Africa,-3,-4,-1
 Gibraltar,Europe ,7912,9367,9714
 Greece,Europe ,850,639,
 Greenland,Europe ,2,,2
-Grenada,Latin America and Other Western Hemisphere,,8,8
-Guatemala,Latin America and Other Western Hemisphere,0,-9,9
+Grenada,Latin America,,8,8
+Guatemala,Latin America,0,-9,9
 Guinea,Africa,,,
 Guinea-Bissau,Africa,0,0,0
-Guyana,Latin America and Other Western Hemisphere,0,,1
-Haiti,Latin America and Other Western Hemisphere,-1,-1,-1
-Honduras,Latin America and Other Western Hemisphere,-52,-80,-84
+Guyana,Latin America,0,,1
+Haiti,Latin America,-1,-1,-1
+Honduras,Latin America,-52,-80,-84
 "Hong Kong SAR, China",Asia,13330,13159,14110
 Hungary,Europe ,21932,31730,52360
 Iceland,Europe ,,,
@@ -90,7 +90,7 @@ Iraq,Asia,,-2,0
 Ireland,Europe ,157846,265004,225517
 Israel,Asia,12061,13982,14566
 Italy,Europe ,29450,30749,32811
-Jamaica,Latin America and Other Western Hemisphere,-2,46,52
+Jamaica,Latin America,-2,46,52
 Japan,Asia,475864,493763,619259
 Jordan,Asia,-21,-218,
 Kazakhstan,Europe ,0,0,0
@@ -118,7 +118,7 @@ Malta,Europe ,1576,1557,2040
 Marshall Islands,Asia,10,,
 Mauritania,Africa,0,0,0
 Mauritius,Africa,373,487,4682
-Mexico,Latin America and Other Western Hemisphere,20693,21050,21526
+Mexico,Latin America,20693,21050,21526
 "Micronesia, Fed. Sts.",Asia,1,1,1
 Moldova,Europe ,0,0,0
 Monaco,Europe ,-27,-26,2
@@ -131,7 +131,7 @@ Nauru,Asia,0,0,0
 Nepal,Asia,1,-1,
 Netherlands,Europe ,348836,462303,487079
 New Zealand,New Zealand,1029,2107,2550
-Nicaragua,Latin America and Other Western Hemisphere,7,-8,-17
+Nicaragua,Latin America,7,-8,-17
 Niger,Africa,0,0,0
 Nigeria,Africa,51,81,105
 "Korea, Dem. People’s Rep.",Asia,0,0,0
@@ -140,10 +140,10 @@ Norway,Europe ,22800,26007,24221
 Oman,Asia,-9,15,-3
 Pakistan,Asia,225,167,154
 Palau,Asia,0,0,0
-Panama,Latin America and Other Western Hemisphere,2466,2789,2965
+Panama,Latin America,2466,2789,2965
 Papua New Guinea,Asia,1,1,2
-Paraguay,Latin America and Other Western Hemisphere,,-9,
-Peru,Latin America and Other Western Hemisphere,177,195,209
+Paraguay,Latin America,,-9,
+Peru,Latin America,177,195,209
 Philippines,Asia,697,361,474
 Poland,Europe ,,,
 Portugal,Europe ,1101,1056,1100
@@ -160,7 +160,7 @@ Serbia,Europe ,7,3,-5
 Seychelles,Africa,0,0,0
 Sierra Leone,Africa,0,0,0
 Singapore,Asia,18185,18267,21060
-Sint Maarten (Dutch part),Latin America and Other Western Hemisphere,0,0,0
+Sint Maarten (Dutch part),Latin America,0,0,0
 Slovak Republic,Europe ,10,14,-10
 Slovenia,Europe ,8,6,5
 Solomon Islands,Asia,0,0,0
@@ -170,12 +170,12 @@ South Africa,Africa,3976,4013,4061
 South Sudan,Africa,0,0,0
 Spain,Europe ,77816,83379,86796
 Sri Lanka,Asia,47,66,67
-St. Kitts and Nevis,Latin America and Other Western Hemisphere,-11,,
-St. Lucia,Latin America and Other Western Hemisphere,,7,7
-St. Martin (French part),Latin America and Other Western Hemisphere,0,0,0
-St. Vincent and the Grenadines,Latin America and Other Western Hemisphere,2,-1,-1
+St. Kitts and Nevis,Latin America,-11,,
+St. Lucia,Latin America,,7,7
+St. Martin (French part),Latin America,0,0,0
+St. Vincent and the Grenadines,Latin America,2,-1,-1
 Sudan ,Africa,0,0,0
-Suriname,Latin America and Other Western Hemisphere,,-7,
+Suriname,Latin America,,-7,
 Sweden,Europe ,51286,49546,52683
 Switzerland,Europe ,274721,295783,300393
 Syrian Arab Republic,Asia,0,0,0
@@ -186,7 +186,7 @@ Thailand,Asia,2418,2136,1904
 Timor-Leste,Asia,0,0,0
 Togo,Africa,0,0,0
 Tonga,Asia,0,0,0
-Trinidad and Tobago,Latin America and Other Western Hemisphere,142,165,69
+Trinidad and Tobago,Latin America,142,165,69
 Tunisia,Africa,-14,1,1
 Turkey,Europe ,1919,2175,2340
 Turkmenistan,Europe ,0,0,0
@@ -195,11 +195,11 @@ Uganda,Africa,0,0,0
 Ukraine,Europe ,11,-3,0
 United Arab Emirates,Asia,4871,5530,5099
 United Kingdom,Europe ,487570,496622,505088
-Uruguay,Latin America and Other Western Hemisphere,84,538,686
+Uruguay,Latin America,84,538,686
 Uzbekistan,Europe ,0,0,0
 Vanuatu,Asia,,5,
 Vatican City,Europe ,0,0,0
-"Venezuela, RB",Latin America and Other Western Hemisphere,1603,1673,1705
+"Venezuela, RB",Latin America,1603,1673,1705
 Vietnam,Asia,94,59,57
 Western Sahara,Africa,0,0,0
 "Yemen, Rep.",Asia,0,0,0
