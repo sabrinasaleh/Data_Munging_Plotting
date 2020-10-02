@@ -58,3 +58,11 @@ la_scattermap = px.scatter_mapbox(
 )
 la_scattermap.write_image("Latin America FDI scatter map.png")
 la_scattermap
+
+dropna_latin_df = latin_df.dropna()
+
+latin_sorted = dropna_latin_df.sort_values(
+    ["fdi_USA_2018 (million)", "country_name"], ascending=False
+)
+
+top_10_fdi = latin_sorted.head(10)
