@@ -1,0 +1,35 @@
+#Canada
+
+canada_df = clean_data[clean_data.region == "Canada"]
+
+scatter_canada_tech = px.scatter(
+    canada_df,
+    y="fdi_USA_2018 (million)",
+    x="tech_export_2018 (million)",
+    color="country_name",
+    title="FDI in USA vs Innovation-Technology Canada (yr 2018)",
+)
+scatter_canada_tech.write_image("Canada FDI vs Tech scatter plot.png")
+scatter_canada_tech.show()
+
+scatter_canada_db = px.scatter(
+    canada_df,
+    y="fdi_USA_2018 (million)",
+    x="doing_business_2018",
+    color="country_name",
+    title="FDI in USA vs Ease Doing Business in Canada (yr 2018)",
+)
+scatter_canada_db.write_image(
+    "L.America Ease of Doing Business Rating scatter plot.png"
+)
+scatter_canada_db.show()
+
+scatter_canada_gdp = px.scatter(
+    canada_df,
+    y="fdi_USA_2018 (million)",
+    x="GDP_2018 (million)",
+    color="country_name",
+    title="FDI in USA vs GDP for Canada (yr 2018)",
+)
+scatter_la_tech.write_image("Canada GDP scatter plot.png")
+scatter_la_tech.show()
