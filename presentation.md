@@ -1,5 +1,6 @@
+Data Analysis & Visualization Bootcamp | UT-Austin McCombs | Fall 2020
 # **Foreign Direct Investment (FDI) in USA: Data Munging & Plotting**
-Group Members: Bruce Muckerson, Ed Yancik, Julie Gandre, Michael Donatucci, and Sabrina Saleh
+![image](Images/image.jpg)
 
 ## Research Question
 * Total stock of Inward-FDI in the USA in 2019: 4458.36 (billion USD) 
@@ -78,7 +79,7 @@ Group Members: Bruce Muckerson, Ed Yancik, Julie Gandre, Michael Donatucci, and 
 ## H3: Countries' business infrastructure impacts their FDI in the USA
 * The correlation between FDI in USA and Doing Business Indicator by countries is 0.35
 * The linear regression model for FDI in USA vs Doing Business Indicator by countries is y = -185483.5 + 3343.94x with R-Square=0.12
-![DB_scatter](Images/FDI_DB_scatter.png)
+![DB_scatter](Images/DB_scatter_screen.PNG)
 
 ## Data Visualization in the Global Map
 ![FDI_map](Images/fdi_map_screen.PNG)
@@ -96,9 +97,11 @@ Group Members: Bruce Muckerson, Ed Yancik, Julie Gandre, Michael Donatucci, and 
 * Africa
 
 ## Limitations & Conclusion
-* The scope of the pilot/preliminary study was limited by the smaller datatset. 
-* The study investigates the dataset for a recent year (2018); however, the analyses were restricted within a single year.
-* The stock of FDI was applied to measure the dependent variable; the findings are needed to be cross-checked by using the alternative measures of FDI. 
+* The scope of the pilot/preliminary study was limited by the small datatset. 
+* The study conducted data analysis for a recent year (2018); however, the analysis was restricted within a single year.
+* The stock of FDI was applied to measure the dependent variable; the findings are needed to be cross-checked by with examining the alternative measures of FDI. 
 * Extension of the pilot/preliminary study intends to collect data on the key variables for multiple years (greater than or equal to 10 years).
 * The extended time series analysis will provide us with insights for both the static and dynamic relationship among the key variables.
-* Examining the alternative measures of FDI (e.g. financial transaction based FDI and income flow based FDI) will add value to the future research.  
+* Examining the alternative measures of FDI (e.g. financial transaction based FDI and income flow based FDI) will add value to the findings of future research.  
+
+Group Members: Bruce Muckerson, Ed Yancik, Julie Gandre, Michael Donatucci, and Sabrina Saleh
