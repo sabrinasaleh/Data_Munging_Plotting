@@ -94,10 +94,10 @@ Data Analysis & Visualization Bootcamp | UT-Austin McCombs | Fall 2020
 ![DB_map](Images/DB_map.png)
 
 ## Analysis of Observations & Results
-* The pilot/preliminary study indicates that the correlation and regression coefficients are positive for the three indepenent variables.
+* The pilot/preliminary study indicates that the correlation and regression coefficients are positive for the three independent variables.
 * For GDP and Innovation & Technology, the coefficients of regressions are relatively small. China plays a big role in causing the flatter slope. 
 * For Doing Business Indicator, the coefficient of regression is very high. The steep slope suggests that the improvement of countries' business infrastructure has a large positive effect on increasing their FDI in the USA. 
-* Europe is the largest FDI investor in the USA. One intersting outlier would be Luxembourg; as a small country with a relatively low GDP, innovation & technology, and doing business indicator, it ranks 4th regionally and 6th globally for FDI in USA.
+* Europe is the largest FDI investor in the USA. One interesting outlier would be Luxembourg; as a small country with a relatively low GDP, innovation & technology, and doing business indicator, it ranks 4th regionally and 6th globally for FDI in USA.
 * Asia shows interesting dynamics across the key variables. Japan ranks 1st regionally and 2nd globally for FDI in USA with relatively top scores for all - GDP, innovation & technology, and doing business indicator. China invests minusculely in the USA despite its top global ranking for GDP and high technology export.     
 * In Latin America, GDP appears to have slightly more effect on the FDI in USA than innovation & technology and doing business indicator. Mexico and Bermuda appear in the list of top 25 investors in the USA.
 * In Africa, with high score for all - GDP, innovation & technology, and doing business indicator, South Africa turns out to be highest regional investor in the USA. 
@@ -107,8 +107,8 @@ Data Analysis & Visualization Bootcamp | UT-Austin McCombs | Fall 2020
 * The scope of the pilot/preliminary study was limited by the small datatset. 
 * The study conducted data analysis for a recent year (2018); however, the analysis was restricted within a single year.
 * The stock of FDI was applied to measure the dependent variable; the findings are needed to be cross-checked with examining the alternative measures of FDI. 
-* Extension of the pilot/preliminary study intends to collect data for multiple years; the future research will conduct data analsis for 10+ years.
+* Extension of the pilot/preliminary study intends to collect data for multiple years; the future research will conduct data analysis for 10+ years.
 * The extended time series analysis will provide us with insights for both the static and dynamic relationship among the key variables.
-* Examining the alternative measures of FDI (e.g. financial transaction and income flow based FDI) will add value to the future research.  
+* Examining the alternative measures of FDI (e.g. financial transaction and income flow based FDI) will add value to the future research.
 
 ##### Group Members: Bruce Muckerson, Ed Yancik, Julie Gandre, Michael Donatucci, and Sabrina Saleh
