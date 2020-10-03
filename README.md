@@ -1,5 +1,5 @@
 Data Analysis & Visualization Bootcamp | UT-Austin McCombs | Fall 2020
-# **Foreign Direct Investment (FDI) in USA: Data Munging & Plotting**
+# **Foreign Direct Investment (FDI) in USA**
 ![title](Images/image_title.jpg)
 
 ## Research Question
