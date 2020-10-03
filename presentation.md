@@ -1,6 +1,6 @@
 Data Analysis & Visualization Bootcamp | UT-Austin McCombs | Fall 2020
 # **Foreign Direct Investment (FDI) in USA: Data Munging & Plotting**
-![image](Images/image.jpg)
+![title](Images/image_title.jpg)
 
 ## Research Question
 * Total stock of Inward-FDI in the USA in 2019: 4458.36 (billion USD) 
@@ -66,6 +66,12 @@ Data Analysis & Visualization Bootcamp | UT-Austin McCombs | Fall 2020
 ![IT_avg](Images/Mean_IT_region.png)
 ![DB_avg](Images/Mean_DB_region.png)
 
+## Regional Rank of Countries for FDI in USA
+![europe_fdi](europe/europe_top_10_fdi_bar.png)
+![asia_fdi](Michael_Tasks/presentation/Top10AsiaFDI.png)
+![latin_fdi](Images/latin_top_fdi.png)
+![africa_fdi](Bruce_task/african_fdi_bar.png)
+
 ## H1: Countries' economic level impacts their FDI in the USA
 * The correlation between FDI in USA and GDP by countries is 0.35
 * The linear regression model for FDI in USA vs GDP by countries is y = 22874.11 + 0.02x with R-Square=0.13
@@ -91,17 +97,18 @@ Data Analysis & Visualization Bootcamp | UT-Austin McCombs | Fall 2020
 * The pilot/preliminary study indicates that the correlation and regression coefficients are positive for the three indepenent variables.
 * For GDP and Innovation & Technology, the coefficients of regressions are relatively small. China plays a big role in causing the flatter slope. 
 * For Doing Business Indicator, the coefficient of regression is very high. The steep slope suggests that the improvement of countries' business infrastructure has a large positive effect on increasing their FDI in the USA. 
-* Europe
-* Asia
-* LA
-* Africa
+* Europe is the largest FDI investor in the USA. One intersting outlier would be Luxembourg; as a small country with a relatively low GDP, innovation & technology, and doing business indicator, it ranks 4th regionally and 6th globally for FDI in USA.
+* Asia shows interesting dynamics across the key variables. Japan ranks 1st regionally and 2nd globally for FDI in USA with relatively top scores for all - GDP, innovation & technology, and doing business indicator. China invests minusculely in the USA despite its top global ranking for GDP and high technology export.     
+* In Latin America, GDP appears to have slightly more effect on the FDI in USA than innovation & technology and doing business indicator. Mexico and Bermuda appear in the list of top 25 investors in the USA.
+* In Africa, with high score for all - GDP, innovation & technology, and doing business indicator, South Africa turns out to be highest regional investor in the USA. 
+* Canada and Australia appear among the top 25 investors in the USA, where Canada ranks 4th and Australia ranks 11th in the list.  
 
 ## Limitations & Conclusion
 * The scope of the pilot/preliminary study was limited by the small datatset. 
 * The study conducted data analysis for a recent year (2018); however, the analysis was restricted within a single year.
-* The stock of FDI was applied to measure the dependent variable; the findings are needed to be cross-checked by with examining the alternative measures of FDI. 
-* Extension of the pilot/preliminary study intends to collect data on the key variables for multiple years (greater than or equal to 10 years).
+* The stock of FDI was applied to measure the dependent variable; the findings are needed to be cross-checked with examining the alternative measures of FDI. 
+* Extension of the pilot/preliminary study intends to collect data for multiple years; the future research will conduct data analsis for 10+ years.
 * The extended time series analysis will provide us with insights for both the static and dynamic relationship among the key variables.
-* Examining the alternative measures of FDI (e.g. financial transaction based FDI and income flow based FDI) will add value to the findings of future research.  
+* Examining the alternative measures of FDI (e.g. financial transaction and income flow based FDI) will add value to the future research.  
 
-Group Members: Bruce Muckerson, Ed Yancik, Julie Gandre, Michael Donatucci, and Sabrina Saleh
+##### Group Members: Bruce Muckerson, Ed Yancik, Julie Gandre, Michael Donatucci, and Sabrina Saleh
