@@ -1,0 +1,8 @@
+Latin America Regional Analysis:
+
+The full global analysis concluded that none of the independent variables had a significant affect on FDI, however the ease of doing business rating appeared to be the best indicator. 
+
+In reviewing the Latin American Region as denoted by the World Bank, we see a similar conclusion. None of the independent variables have a strong effect on FDI with Mexico as the outlier in all catergories. 
+
+Once we boil down to the 10 countries with the highest FDI in the US, we can see that the country GDP appears to have slightly more effect on the FDI than the ease of doing business rating or investment in innovation and technology. In this case, Bermuda is an outlier with the highest GDP, but the FDI investmest is closer to the amount for countries with GDP of a half million or less. 
+
